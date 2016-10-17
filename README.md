@@ -113,6 +113,7 @@ MongoClient.connect(DB_CONN_STR, function(err, db) {
     db.close();
   });
 });
+```
 
 ##查询
 ```html
@@ -141,6 +142,7 @@ MongoClient.connect(DB_CONN_STR, function(err, db) {
     db.close();
   });
 });
+```
 
 ##修改
 
@@ -169,6 +171,7 @@ MongoClient.connect(DB_CONN_STR, function(err, db) {
     db.close();
   });
 });
+```
 
 ##删除
 
@@ -198,3 +201,4 @@ MongoClient.connect(DB_CONN_STR, function(err, db) {
     db.close();
   });
 });
+```
