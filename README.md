@@ -19,7 +19,7 @@
 
 示例操作如下图：
 
-![github]（B3eIRz.png “github”)
+![github]（https://github.com/ybkuncom/nodejs-mongodb-ejs/blob/master/B3eIRz.png?raw=true “github”)
 
 1.默认为存在“admin”和“local”两个数据库；admin数据库是存放管理员信息的数据库，认证会用到；local是存放replication相关的数据；这两处本篇都没有涉及到；
 
