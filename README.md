@@ -1,4 +1,4 @@
-# nodejs-mongodb-ejs
+# nodejs-mongodb
 简单的学习
 
 #首先 d:\\mongodb\bin  (cd 到bin目录下)
