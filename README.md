@@ -16,8 +16,11 @@
 删除当前数据库指定表：db.表名.drop();
 
 删除当前数据库：db.dropDatabase();
+
 示例操作如下图：
-![github]（https://github.com/ybkuncom/nodejs-mongodb-ejs/blob/master/B3eIRz.png “github”)
+
+![github]（B3eIRz.png “github”)
+
 1.默认为存在“admin”和“local”两个数据库；admin数据库是存放管理员信息的数据库，认证会用到；local是存放replication相关的数据；这两处本篇都没有涉及到；
 
 2.find();是个查询操作，后面会讲到，上面用到主要是为了演示use不存在的库后，进行相关操作会创建出这个库；
